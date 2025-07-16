@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**prinshu-deep/prinshu-deep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prinshu-deep/prinshu-deep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
+author - prinshu deep 
 
 Here are some ideas to get you started:
 
