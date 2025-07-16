@@ -3,7 +3,8 @@
 <!--
 **prinshu-deep/prinshu-deep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
 author - prinshu deep 
-
+This is my first Git Repositry 
+Author -prinshu deep
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
